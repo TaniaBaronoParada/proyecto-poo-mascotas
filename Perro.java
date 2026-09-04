@@ -5,7 +5,6 @@
     private double pesoMaximo;
     private boolean entrenado;
 
-
     //constructores
     public Perro(String nombre, int edad, double peso, boolean vacuna,
                  String raza, int nivelEnergia, double pesoMaximo, boolean entrenado){
