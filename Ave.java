@@ -5,7 +5,6 @@ public class Ave extends Mascota{
     private boolean puedeVolar;
 
     //constructires
-
     public Ave(String nombre, int edad, double peso, boolean vacuna,
                String especie, int longitudAlas, double velocidadVuelo, boolean puedeVolar) {
 
