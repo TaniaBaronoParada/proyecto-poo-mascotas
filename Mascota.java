@@ -11,6 +11,7 @@ public class Mascota {
         this.vacuna=vacuna;
 
     }
+    
     public Mascota(String nombre, int edad,boolean vacuna){
         this.nombre=nombre;
         this.edad=edad;
